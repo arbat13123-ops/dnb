@@ -1,3 +1,9 @@
 FROM n8nio/n8n:1.120.4
 
 ENV N8N_USER_FOLDER=/data
+
+FROM n8nio/n8n:1.120.4
+
+ENV N8N_USER_FOLDER=/data
+
+EXPOSE 5678
