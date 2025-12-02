@@ -1,0 +1,9 @@
+{
+  "name": "n8n-railway-template",
+  "description": "Deploy n8n 1.120.4 to Railway",
+  "env": {
+    "N8N_ENCRYPTION_KEY": {
+      "required": true
+    }
+  }
+}
